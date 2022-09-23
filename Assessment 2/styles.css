@@ -1,0 +1,148 @@
+body {
+  background: #bcc6cc;
+}
+
+.headnav {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  background: darkgrey;
+  padding-bottom: 5px;
+  border-bottom: 0px solid #000000;
+}
+
+.heading {
+  font-family: monospace;
+  font-size: 25px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: #999999;
+  color: #f8f6f0;
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+
+.navibar {
+  text-align: center;
+  background: #8a8888;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #000000;
+  border-top: 2px solid #000000;
+}
+
+.navibar a {
+  color: lightblue;
+  font-family: monospace;
+  padding: 14px 80px;
+  font-size: 20px;
+  text-decoration: none;
+  background: #7a7979;
+}
+
+.navibar a:hover {
+  background: #34282c;
+  color: lightgrey;
+}
+
+.navibar2 {
+  text-align: center;
+  background: #8a8888;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #000000;
+  border-top: 2px solid #000000;
+}
+
+.navibar2 a {
+  color: #7a7979;
+  font-family: monospace;
+  padding: 9px 50px;
+  font-size: 10px;
+  text-decoration: none;
+  background: lightblue;
+  border: 1px solid #000000;
+}
+
+.navibar2 a:hover {
+  background: #34282c;
+  color: lightgrey;
+}
+
+.personal {
+  font-family: verdana;
+  margin-top: 188px;
+}
+
+.personaltitle {
+  color: lightblue;
+  background: #fffacd;
+}
+
+.personaltitle2 {
+  color: #bcc6cc;
+  background: #fffacd;
+  margin-top: 0px;
+}
+
+.personalpara {
+  color: #000000;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-right: 150px;
+  background: darkgrey;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+
+.personalbody {
+  display: flex;
+  align-items: center;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+  background: #bcc6cc;
+}
+
+.personalimage {
+  max-width: 150px;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+
+.personalimage2 {
+  max-width: 350px;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+
+.personal2 {
+  font-family: verdana;
+}
+
+.personal2title2 {
+  text-align: right;
+  color: #bcc6cc;
+  background: #fffacd;
+}
+
+.personal2para {
+  color: #000000;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-left: 250px;
+  background: darkgrey;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+
+.personal2body {
+  display: flex;
+  align-items: center;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+}
